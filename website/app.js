@@ -1,5 +1,5 @@
 /* Global Variables */
-const api_key = 'edbb5718c4mshd859c0f1cb8d8bcp1fa231jsn35cc45c41298';
+const api_key = 'PUT YOUR API KEY HERE';
 const api_address = 'https://community-open-weather-map.p.rapidapi.com/weather?zip=';
 const server_url = '127.0.0.1:3000/';
 
